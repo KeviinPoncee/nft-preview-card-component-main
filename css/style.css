@@ -79,14 +79,14 @@ section .nft-img img {
     border-radius: 2rem;
 }
 
-section .nft-text h2 {
+section .nft-text h1 {
     margin-top: 3rem;
     color: var(--White);
     font-weight: 600;
     margin-bottom: 3rem;
 }
 
-section .nft-text h2:hover {
+section .nft-text h1:hover {
     color: var(--Cyan);
     cursor: pointer;
 }
